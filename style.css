@@ -1,0 +1,14 @@
+#top {
+    background-color: #1DE9B6;
+    height:800px; 
+    width:100%;
+    
+}
+.no-padding{
+    margin:0 auto;    
+    padding: 0;
+}
+.center{
+    display: block;
+    margin:auto;
+}
